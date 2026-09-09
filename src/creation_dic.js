@@ -8,8 +8,8 @@ import {
 
 // 1) Lire le fichier
 const files = [
-	"./data/conte.txt",
-	"./data/fables_de_la_fontaines.txt",
+	"./data/lemaitre_petits_contes.txt",
+	"./data/fables_de_la_fontaine.txt",
 	"./data/maupassant.txt",
 ];
 
