@@ -59,7 +59,7 @@ markov-word-predictor/
 ├── src/
 │   ├── creation_*.js     # Génération du dictionnaire et des modèles de prédiction
 │   ├── fonction_utile.js # Fonctions utilitaires (nettoyage de texte, écriture JSON)
-│   └── test_*.js         # Scripts de démonstration
+│   └── demo_*.js         # Scripts de démonstration
 ├── package.json
 └── README.md
 ```
